@@ -2,13 +2,13 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![]("https://raw.githubusercontent.com/tgmkubi/kodluyoruzilkrepo/main/kodluyoruzilkrepo.png")
+![](https://raw.githubusercontent.com/tgmkubi/kodluyoruzilkrepo/main/kodluyoruzilkrepo.png)
 
-Bu repo [Kodluyoruz]("https://kodluyoruz.org/") Node.js ile Backend Patikasında oluşturduğumuz ilk repo. İçerisinde 1 adet README dosyası, 1 adet index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Node.js ile Backend Patikasında oluşturduğumuz ilk repo. İçerisinde 1 adet README dosyası, 1 adet index.html dosyası barındırıyor.
 
 ## Installation
 
-Öncelikle projeyi clonelayın. [tgmkubi/kodluyoruzilkrepo]("https://github.com/tgmkubi/kodluyoruzilkrepo")
+Öncelikle projeyi clonelayın. [tgmkubi/kodluyoruzilkrepo](https://github.com/tgmkubi/kodluyoruzilkrepo)
 
 `git clone https://github.com/tgmkubi/kodluyoruzilkrepo`
 
@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 
-[MIT]("https://github.com/tgmkubi/kodluyoruzilkrepo?tab=MIT-1-ov-file")
+[MIT](https://github.com/tgmkubi/kodluyoruzilkrepo?tab=MIT-1-ov-file)
