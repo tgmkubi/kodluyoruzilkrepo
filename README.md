@@ -2,6 +2,8 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![]("https://raw.githubusercontent.com/tgmkubi/kodluyoruzilkrepo/main/kodluyoruzilkrepo.png")
+
 Bu repo [Kodluyoruz]("https://kodluyoruz.org/") Node.js ile Backend Patikasında oluşturduğumuz ilk repo. İçerisinde 1 adet README dosyası, 1 adet index.html dosyası barındırıyor.
 
 ## Installation
