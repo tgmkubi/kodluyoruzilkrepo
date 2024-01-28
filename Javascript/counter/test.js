@@ -1,25 +1,26 @@
-let counter = 0;
-const updateCounter = () => counterElement.innerHTML = counter;
+// localStorage Bolum Sonu Egzersizi
 
-let counterElement = document.getElementById("counter");
-const decreaseButtonElement = document.getElementById("decrease");
-const resetButtonElement = document.getElementById("reset");
-const increaseButtonElement = document.getElementById("increase");
+let counter = localStorage.getItem('counter') ? Number(localStorage.getItem('counter')) : 0;
+let counterDOM = document.querySelector('#counter');
+let increaseDOM = document.querySelector('#increase');
+let decreaseDOM = document.querySelector('#decrease');
+let resetDOM =document.querySelector('#reset');
 
-const decreaseCounterHandler = () => {
-  counter--;
-  updateCounter();
+counterDOM.innerHTML = counter;
+
+increaseDOM.addEventListener("click", clickEvent);
+decreaseDOM.addEventListener("click", clickEvent);
+resetDOM.addEventListener("click", clickEvent);
+
+function clickEvent() {
+  if (this.id === "increase") {
+    counter++;
+  } else if (this.id === "decrease") {
+    counter--;
+  } else {
+    counter = 0;
+  }
+
+  localStorage.setItem('counter', counter);
+  counterDOM.innerHTML = counter;
 };
-const resetCounterHandler = () => {
-  counter = 0;
-  updateCounter();
-};
-const increaseCounterHandler = () => {
-  counter++;
-  updateCounter();
-};
-
-decreaseButtonElement.addEventListener("click", decreaseCounterHandler);
-resetButtonElement.addEventListener("click", resetCounterHandler)
-increaseButtonElement.addEventListener("click", increaseCounterHandler);
-

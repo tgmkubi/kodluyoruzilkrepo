@@ -1,0 +1,6 @@
+/* Yalnızca yeni eklenen todo'ların marker'ını kaldırma */
+#todo-list .list-group-item:not(:first-child)::before {
+  display: none;
+}
+
+
