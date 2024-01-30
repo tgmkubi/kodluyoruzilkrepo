@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "Köfte",
+      "category": "Ana Yemek",
+      "price": 125.00,
+      "img": "https://i.lezzet.com.tr/images-xxlarge-recipe/izmir_kofte-22742567-6176-4e66-945b-8b3499f98bb3.jpg",
+      "desc": "Harika lezzette köfte, yanında taze yeşilliklerle servis edilir."
+    },
+    {
+      "id": 2,
+      "title": "İskender",
+      "category": "Ana Yemek",
+      "price": 150.00,
+      "img": "https://i.lezzet.com.tr/images-xxlarge-recipe/how-to-make-iskender-kebab-homemade-iskender-kebab-recipe-bae78de4-7c4c-4d2d-9016-456852c22f5c.jpg",
+      "desc": "Bol soslu döner eti ve yoğurtla lezzetlendirilmiş, nefis bir İskender."
+    },
+    {
+      "id": 3,
+      "title": "Mantı",
+      "category": "Ana Yemek",
+      "price": 130.00,
+      "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/06/citir-manti-one-cikan-yeni.jpg",
+      "desc": "El açması mantı, üzerinde yoğurt ve kırmızı biber sosuyla servis edilir."
+    },
+    {
+      "id": 4,
+      "title": "Karnıyarık",
+      "category": "Ana Yemek",
+      "price": 120.00,
+      "img": "https://cdn.yemek.com/mnresize/940/940/uploads/2022/08/100-gram-kiymayla-karniyarik-one-cikan.jpg",
+      "desc": "Patlıcanın içine harika bir et karışımı doldurulmuş, özel sosla pişirilmiş karnıyarık."
+    },
+    {
+      "id": 5,
+      "title": "Domates Çorbası",
+      "category": "Başlangıç",
+      "price": 60.00,
+      "img": "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/2023/updates/domates-corbasi/Domates_Corbasi-1260x839.jpg",
+      "desc": "Günün çorbası, taze malzemelerle hazırlanır ve sıcak servis edilir."
+    },
+    {
+      "id": 6,
+      "title": "Pilav",
+      "category": "Ana Yemek",
+      "price": 60.00,
+      "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/09/tereyagli-pilav-one-cikan.jpg",
+      "desc": "Tane tane pişmiş pirinç pilavı, yemeklerin yanında tercih edebileceğiniz lezzetli bir seçenek."
+    },
+    {
+      "id": 7,
+      "title": "Tavuk Şiş",
+      "category": "Ana Yemek",
+      "price": 120.00,
+      "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/03/firinda-tavuk-sis-asama-one-cikan.jpg",
+      "desc": "Marine edilmiş tavuk parçaları, közlenmiş sebzelerle servis edilir."
+    },
+    {
+      "id": 8,
+      "title": "Baklava",
+      "category": "Tatlı",
+      "price": 80.00,
+      "img": "https://www.gunduzoglu.com.tr/UserFiles/Fotograflar/org/109-fistikli-baklava-fistikli-baklava-fistikli-baklava.jpg",
+      "desc": "İncecik hamurlar arasına doldurulmuş ceviz dolgusu, şerbetle tatlandırılmış baklava."
+    },
+    {
+      "id": 9,
+      "title": "Adana Kebap",
+      "category": "Ana Yemek",
+      "price": 120.00,
+      "img": "https://iasbh.tmgrup.com.tr/c9f465/650/344/0/71/1152/675?u=https://isbh.tmgrup.com.tr/sbh/2020/03/05/en-harika-adana-kebap-tarifi-adana-kebap-nasil-yapilir-1583404717106.jpg",
+      "desc": "Özel baharatlarla harmanlanmış dana kıyması, tandırda pişirilmiş nefis Adana kebap."
+    },
+    {
+      "id": 10,
+      "title": "Mercimek Çorbası",
+      "category": "Başlangıç",
+      "price": 60.00,
+      "img": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/shutterstock_771149176.webp",
+      "desc": "Bol proteinli mercimek çorbası, taze nane yapraklarıyla süslenmiş olarak servis edilir."
+    },
+    {
+      "id": 11,
+      "title": "Fırın Tavuk",
+      "category": "Ana Yemek",
+      "price": 120.00,
+      "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/07/firin-posetinde-tavuk-yeni.jpg",
+      "desc": "Fırında pişmiş tavuk, özel baharatlarla lezzetlendirilmiş ve sıcak olarak servis edilir."
+    },
+    {
+      "id": 12,
+      "title": "Su Böreği",
+      "category": "Ana Yemek",
+      "price": 80.00,
+      "img": "https://hacibabaonline.com/wp-content/uploads/2023/01/su-boregi-1.jpg",
+      "desc": "Yumuşacık hamur arasına doldurulmuş, peynirli ve ıspanaklı su böreği."
+    },
+    {
+      "id": 13,
+      "title": "Kumpir",
+      "category": "Ana Yemek",
+      "price": 150.00,
+      "img": "https://i.lezzet.com.tr/images-xxlarge-recipe/kumpir-36fc1d96-53eb-4ba5-92dc-b587403d0277.jpg",
+      "desc": "Patatesin içi kazılıp çıkarılarak harika malzemelerle doldurulmuş, fırınlanmış kumpir."
+    },
+    {
+      "id": 14,
+      "title": "Kazandibi",
+      "category": "Tatlı",
+      "price": 60.00,
+      "img": "https://www.diyetkolik.com/site_media/media/foodrecipe_images/kazandibi_1.jpg",
+      "desc": "Sütlü ve hafif tatlı bir lezzet olan kazandibi, tarçınla servis edilir."
+    },
+    {
+      "id": 15,
+      "title": "Lahmacun",
+      "category": "Ana Yemek",
+      "price": 80.00,
+      "img": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/lahmacun-yeni-one-cikan.jpg",
+      "desc": "İnce hamur üzerine dana kıyması ve baharatlarla hazırlanmış, fırında pişirilmiş lahmacun."
+    },
+    {
+      "id": 16,
+      "title": "Çılbır",
+      "category": "Ana Yemek",
+      "price": 160.00,
+      "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2023/03/cilbir-ugur.jpg",
+      "desc": "Yumurta, yoğurt ve tereyağı ile hazırlanan nefis bir lezzet olan çılbır."
+    },
+    {
+      "id": 17,
+      "title": "Sarma",
+      "category": "Ana Yemek",
+      "price": 180.00,
+      "img": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/zeytinyagli_sarma.webp",
+      "desc": "Bize özgü iç harçlarla doldurulmuş asma yaprağı sarması, sıcak olarak servis edilir."
+    },
+    {
+      "id": 18,
+      "title": "Keskül",
+      "category": "Tatlı",
+      "price": 60.00,
+      "img": "https://www.diyetkolik.com/site_media/media/foodrecipe_images/bademli-keskul.png",
+      "desc": "Sütlü ve hafif bir tatlı olan keskül, üzerine tarçın serpilerek servis edilir."
+    },
+    {
+      "id": 19,
+      "title": "İmam Bayıldı",
+      "category": "Ana Yemek",
+      "price": 150.00,
+      "img": "https://www.sahrapsoysal.com/resim-imam-bayildi-tarifi-4962.jpg",
+      "desc": "Zeytinyağında pişirilmiş patlıcan dolması, özel sosla servis edilir."
+    },
+    {
+      "id": 20,
+      "title": "Fıstıklı Baklava",
+      "category": "Tatlı",
+      "price": 200.00,
+      "img": "https://www.diyetkolik.com/site_media/media/nutrition_images/fistiklibaklava-1.jpg",
+      "desc": "Ceviz yerine fıstıkla doldurulmuş, şerbetli ve enfes bir tatlı olan fıstıklı baklava."
+    }
+  ]
+  
