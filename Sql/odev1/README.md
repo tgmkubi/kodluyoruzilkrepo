@@ -22,4 +22,4 @@ SELECT first_name, last_name FROM customer WHERE first_name = 'Mary';
 SELECT * FROM film WHERE length < 50 AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 ```
 
-![sorgu 5](https://raw.githubusercontent.com/tgmkubi/kodluyoruzilkrepo/main/Sql/odev1/query.png)
+![sql ödev 1 sorgu 3](https://raw.githubusercontent.com/tgmkubi/kodluyoruzilkrepo/main/Sql/odev1/query.png)
